@@ -1,8 +1,8 @@
-# simple-page 
+# simple-page
 
-https://rutauba.github.io/simple-page/
-
-Luta myli Napą
+Excercise: Exercise: Create, Embed, and Share your Chart and Data Story
 
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfFIyh0k-UiUQlQIHLuViba_Kh77iV01B4MoR5byQJpN7meqQzhOiKXJrMdDhGXA8yU3pHfmlh0lDM/pubchart?oid=347030481&amp;format=interactive"></iframe>
+I used random sample of 340 cases and clasified them by country. The diagram shows the average experience (in years) with data visualization by country
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrqNlznYogluS6VP-4luobR3JhPKobU8wEBC5Ucuv5zl8gXpxm56Ci3uYk5q1nFynchj-RKOg9qqYY/pubchart?oid=1562865101&amp;format=interactive"></iframe>
